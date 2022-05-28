@@ -34,19 +34,26 @@ programa
 {
 	funcao inicio()
 	{
-		inteiro idade, ano, mes, dia, meses, dias
+		inteiro ano, mes, meses, dias, anos, anosEmDias, mesesEmDias, totalDias
 
 		ano = 365
 		mes = 30
-		dia = 1
 		
-		escreva("Fale sua idade:")
-		leia(idade)
+		escreva("Fale quantos anos tem: ")
+		leia(anos)
 
-		meses = (idade * ano) / mes
-		dias = idade * ano
+		escreva("\nQuantos Meses:")
+		leia(meses)
 
-		escreva("E seus dias me idade são em " + dias + "!")
+		escreva("\nE quantos dias: ")
+		leia(dias)
+
+		anosEmDias = anos * ano
+		mesesEmDias = meses * mes
+		
+		totalDias = anosEmDias + mesesEmDias + dias
+
+		escreva("\nVocê Viveu o total de: " + totalDias + " dias!")
 	}
 }
 
@@ -55,7 +62,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1175; 
+ * @POSICAO-CURSOR = 1329; 
  * @DOBRAMENTO-CODIGO = [1];
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
