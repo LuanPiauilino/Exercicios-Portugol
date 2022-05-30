@@ -1,6 +1,7 @@
 programa{
 	
 	funcao inicio(){
+		
 		inteiro numero1, numero2, numero3, numero4, quadrado1, quadrado2, quadrado3, quadrado4
 		
 		escreva("Digite 4 números")
@@ -27,7 +28,7 @@ programa{
  		}
 		senao{
 			escreva("\nValor dos quadrados dos números " + numero1 + ", " + numero2 + ", " + numero3 + ", " + numero4 
-			+ " são, respectativamente: " + quadrado1 + "m², " + quadrado2 + "m², " + quadrado3 + "m², " + quadrado4 + "m².")
+			+ " são, respectativamente: " + quadrado1 + ", " + quadrado2 + ", " + quadrado3 + ", " + quadrado4 + "m².")
 		}
 		
 	}
@@ -37,7 +38,7 @@ programa{
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 821; 
+ * @POSICAO-CURSOR = 818; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

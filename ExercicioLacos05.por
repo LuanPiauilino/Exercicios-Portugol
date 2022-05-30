@@ -1,13 +1,14 @@
 programa{
 	
 	funcao inicio(){
+		
 		real nivelPoluicao
 		
 		escreva("Digite o nível de poluição que você captou: ")
 		leia(nivelPoluicao)
 
-		se(nivelPoluicao >= 0.05 e nivelPoluicao <= 0.25){
-			escreva("\nOs níveis de poluição estão em um nível aceitável.")
+		se(nivelPoluicao >= 0.05 e nivelPoluicao < 0.3){
+			escreva("\nOnível de poluição estão em um nível aceitável.")
 		}
 		senao se(nivelPoluicao >= 0.3){
 			escreva("\nNecessária a suspensão das atividades das indústrias do 1° grupo.") 
@@ -25,7 +26,7 @@ programa{
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 29; 
+ * @POSICAO-CURSOR = 204; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

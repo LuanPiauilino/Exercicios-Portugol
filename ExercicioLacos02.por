@@ -1,6 +1,7 @@
 programa{
 	
 	funcao inicio(){
+		
 		real horasTrabalhada, salarioHora, horasExcedidas, salarioExcedido, salarioHoraNormal, salarioTotal
 		inteiro codigoUsuario
 		
@@ -18,11 +19,11 @@ programa{
 
 		se(horasTrabalhada > 50.0){
 			horasExcedidas = horasTrabalhada - 50.0
-			salarioHoraNormal = (horasTrabalhada - horasExcedidas) * salarioHora
 			salarioExcedido = horasExcedidas * salarioExcedido
+			salarioHoraNormal = 50.0 * salarioHora
 			salarioTotal = salarioHoraNormal + salarioExcedido
-			escreva("Usuário: " + codigoUsuario + "\nSeu salário total foi de: R$" + salarioTotal 
-			+ ", e  R$" + salarioExcedido + " foi de seu salário extra!")
+				escreva("Usuário: " + codigoUsuario + "\nSeu salário total foi de: R$" + salarioTotal 
+				+ ", e  R$" + salarioExcedido + " foi de seu salário extra!")
 		}
 		senao{
 			escreva("Usuário: " + codigoUsuario + "\nO seu salário foi de: R$" 
@@ -35,7 +36,7 @@ programa{
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 799; 
+ * @POSICAO-CURSOR = 35; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

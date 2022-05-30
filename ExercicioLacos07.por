@@ -1,6 +1,7 @@
-programa{
+programa{
 	
-	funcao inicio(){
+	funcao inicio(){
+		
 		real base, altura, areaTriangulo
 		
 		escreva("Digite a medida da base do seu triângulo: ")
@@ -15,7 +16,7 @@ programa{
 			escreva("A área do seu triângulo é: " + areaTriangulo +"m².")
 		}
 		senao{
-			escreva("Medidas incorretas!")
+			escreva("Não é possível fazer o cálculo!")
 		}
 	}
 }
@@ -24,7 +25,7 @@ programa{
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 396; 
+ * @POSICAO-CURSOR = 35; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
