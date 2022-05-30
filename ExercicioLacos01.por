@@ -1,8 +1,6 @@
-programa
-{
+programa{
 	
-	funcao inicio()
-	{
+	funcao inicio(){
 		real pesoTomates, excesso, valorMulta, pesoMaximo, multaTotal
 		
 		escreva("Qual o peso dos tomates: ")
@@ -14,10 +12,10 @@ programa
 		multaTotal = excesso * valorMulta
 		
 		se(pesoTomates > 50.0){
-			escreva("Você pagará o valor de: " + multaTotal + " por excender o peso máximo.") 
+			escreva("Você pagará o valor de: R$" + multaTotal + " por excender o peso máximo em: " + excesso + "Kg.") 
 		}
 		senao{
-			escreva("Peso está dentro nas normas, você não pagará multas!52")
+			escreva("Peso está dentro nas normas, você não pagará multas!")
 		}
 	}
 }
@@ -26,7 +24,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 299; 
+ * @POSICAO-CURSOR = 404; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
