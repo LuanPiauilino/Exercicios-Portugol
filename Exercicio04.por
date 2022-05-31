@@ -1,5 +1,11 @@
 programa
 {
+	/*
+	 * 4. Escreva um sistema que leia três números inteiros e positivos (A, B, C) e
+calcule a seguinte expressão:
+
+, onde
+	 */
 	
 	inclua biblioteca Matematica --> mat
 	
@@ -27,7 +33,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 215; 
+ * @POSICAO-CURSOR = 133; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
