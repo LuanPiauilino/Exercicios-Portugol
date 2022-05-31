@@ -1,5 +1,5 @@
 programa{
-/* Generation Brasil - Java 
+ /* Generation Brasil - Java 
 * Data: 30/05/2022
 * Aluno: Luan Piauilino
 * 
@@ -9,7 +9,7 @@ programa{
 * b) média do número de filhos;
 * c) maior salário;
 * d) percentual de pessoas com salário até R$100,00.
-*/
+ */
 	
 	funcao inicio(){ 
 		real mediaFilho, perSalarioAte100, mediaSalario, mediaMaiorSalario, salario, filhos, maiorSalario, salarioAte100
@@ -55,7 +55,7 @@ programa{
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1024; 
+ * @POSICAO-CURSOR = 12; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

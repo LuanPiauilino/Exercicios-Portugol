@@ -1,11 +1,12 @@
-programa
-{
-	/*
-	 * 4. Escreva um sistema que leia três números inteiros e positivos (A, B, C) e
-calcule a seguinte expressão:
-
-, onde
-	 */
+programa{
+/* Generation Brasil - Java 
+* Data: 27/05/2022
+* Aluno: Luan Piauilino
+* 4. Escreva um sistema que leia três números inteiros e positivos (A, B, C) e
+* calcule a seguinte expressão:
+*
+* , onde
+ */
 	
 	inclua biblioteca Matematica --> mat
 	
@@ -33,7 +34,7 @@ calcule a seguinte expressão:
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 133; 
+ * @POSICAO-CURSOR = 49; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

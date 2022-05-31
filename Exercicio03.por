@@ -1,9 +1,11 @@
-programa
-{
-	/*
-	 * 3. Faça um sistema que leia o tempo de duração de um evento em uma fábrica
-		expressa em segundos e mostre-o expresso em horas, minutos e segundos.
-	 */
+programa{
+ /* Generation Brasil - Java 
+* Data: 27/05/2022
+* Aluno: Luan Piauilino
+*
+* 3. Faça um sistema que leia o tempo de duração de um evento em uma fábrica
+* expressa em segundos e mostre-o expresso em horas, minutos e segundos.
+ */
 	
 	funcao inicio()
 	{
@@ -27,7 +29,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 96; 
+ * @POSICAO-CURSOR = 236; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

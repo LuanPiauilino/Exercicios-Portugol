@@ -29,13 +29,16 @@
  * 	
  * Data: 01/06/2013
  */
- 
-programa
-{
-	/* 
-	 *  1. Faça um sistema que leia a idade de uma pessoa expressa em anos, meses e
-		dias e mostre-a expressa apenas em dias.
-	 */
+ programa{
+ /* Generation Brasil - Java 
+* Data: 30/05/2022
+* Aluno: Luan Piauilino 
+* 
+* 
+* 1. Faça um sistema que leia a idade de uma pessoa expressa em anos, meses e
+*  
+* dias e mostre-a expressa apenas em dias.
+ */
 	 
 	funcao inicio()
 	{
@@ -67,7 +70,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1067; 
+ * @POSICAO-CURSOR = 1135; 
  * @DOBRAMENTO-CODIGO = [1];
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;

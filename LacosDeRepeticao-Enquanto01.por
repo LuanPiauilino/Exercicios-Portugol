@@ -1,5 +1,5 @@
 programa{
-/* Generation Brasil - Java 
+ /* Generation Brasil - Java 
 * Data: 31/05/2022
 * Aluno: Luan Piauilino
 *
@@ -8,7 +8,7 @@ programa{
 * deve fazer as leituras dos valores enquanto o usuário estiver fornecendo valores
 * positivos. Ou seja, o programa deve parar quando o usuário fornecer um valor
 * negativo.
-*/
+ */
 	
 	funcao inicio(){
 	
@@ -40,7 +40,7 @@ programa{
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 896; 
+ * @POSICAO-CURSOR = 432; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

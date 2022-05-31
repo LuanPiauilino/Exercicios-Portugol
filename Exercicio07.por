@@ -1,12 +1,16 @@
 programa{
-	/*
-	 * 7. Um sistema de equações lineares do tipo:
-
-		, pode ser resolvido segundo mostrado abaixo :
-
-		Escreva um sistema que lê os coeficientes a,b,c,d,e e f e calcula e mostra os
-		valores de x e y.
-	 */
+/* Generation Brasil - Java 
+* Data: 27/05/2022
+* Aluno: Luan Piauilino
+* 
+* 
+* 7. Um sistema de equações lineares do tipo:
+*
+* , pode ser resolvido segundo mostrado abaixo :
+*
+* Escreva um sistema que lê os coeficientes a,b,c,d,e e f e calcula e mostra os
+* valores de x e y.
+ */
 	
 	funcao inicio(){
 		inteiro a , b , c , d , i , f , x ,y
@@ -41,7 +45,7 @@ programa{
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 65; 
+ * @POSICAO-CURSOR = 287; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
